@@ -66,7 +66,7 @@ def adding_matz
 #   :languages => ["LISP", "C"]
 # }
 # return the entire updated hash
-  programmer_hash.merge = {
+  Matz = {
     :yukihiro_matsumoto => {
       :known_for => "Ruby",
       :languages => ["LISP", "C"]
@@ -88,6 +88,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
+    programmer_hash.m
   return programmer_hash
 end
 
