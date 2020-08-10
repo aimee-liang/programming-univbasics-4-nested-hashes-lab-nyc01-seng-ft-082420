@@ -14,8 +14,7 @@ def hopper
         :languages => ["C"]
       }
     }
-  return programmer_hash[:gracehopper]
-end
+  return programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
