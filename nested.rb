@@ -88,7 +88,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    programmer_hash.m
+    programmer_hash.merge(Matz)
   return programmer_hash
 end
 
